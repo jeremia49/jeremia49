@@ -1,10 +1,11 @@
 ### Hi There 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="10%" min-width="100px">
   <br><br>
   <samp>
-My name is Jeremia M. I am a student from Indonesia. Programming is my hobby.
+My name is Jeremia M. I am a student from Indonesia. Programming is my hobby. 
+    <br>I love to use Python, Go, PHP, Java, Kotlin, etc. <br>
      <br><br>Contact me on <a href="https://jeremia.live">My Website</a>
   </samp>
 </p>
