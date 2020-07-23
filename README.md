@@ -1,7 +1,7 @@
 ### Hi There 👋
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/519a2be2a748128edad7ce4cbc3352bf8def2d07/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f436d72314f4d4a32464e3042322f67697068792e676966" width="10%" min-width="300px">
+  <img src="https://camo.githubusercontent.com/519a2be2a748128edad7ce4cbc3352bf8def2d07/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f436d72314f4d4a32464e3042322f67697068792e676966" width="10%" style="min-width:300px;">
   <br><br>
   <samp>
 My name is Jeremia M. I am a student from Indonesia. Programming is my hobby. 
