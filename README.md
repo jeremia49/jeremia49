@@ -6,7 +6,7 @@
   <samp>
 My name is Jeremia M. I am a student from Indonesia. Programming is my hobby. 
     <br>I love to use Python, Go, PHP, Java, Kotlin, etc. <br>
-     <br><br>Contact me on <a href="https://jeremia.live">My Website</a>
+     <br><br>Contact me on <a href="https://jeremia.co">My Website</a>
   </samp>
 </p>
 
