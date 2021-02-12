@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeremia49&show_icons=true&include_all_commits=true&theme=radical&count_private=true&locale=de&include_all_commits=true" alt="jeremia49's performance">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jeremia49&layout=compact&theme=radical" alt="jeremia49's most used lang">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jeremia49&layout=compact&theme=material-palenight&count_private=true&locale=de" alt="jeremia49's most used lang">
   <br><br><a href="https://jeremia.co">My Website</a>
 </p>
 
