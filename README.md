@@ -1,9 +1,9 @@
 ### Hi There 👋
-- 🔭 I’m currently working on Flutter App especially on Android and IOS
-- 🌱 I’m currently learning on Machine Learning and Simplified Chinese
+- 🔭 I’m currently working on Native Android App, Machine Learning, etc.
+- 🌱 I’m currently learning Simplified Chinese
+- 📓 Undergraduate Computer Science Student at Universitas Negeri Medan
 - 📫 How to reach me: Email me at github@jeremia.my.id
-- ⚡ Fun fact: Tryin to join Bangkit Program this year...
-
+<!-- - ⚡ Fun fact: Tryin to join Bangkit Program this year... -->
 
 ## Stats 📈 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 ## Music 🎸 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jeremia-manurung&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jeremia-manurung&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jeremia-manurung&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=jeremia-manurung&redirect=true)
 <!--
 **jeremia49/jeremia49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
