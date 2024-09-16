@@ -1,8 +1,8 @@
 ### Hi There 👋
-- 🔭 I’m currently working on Native Android App, Machine Learning, etc.
-- 🌱 I’m currently learning Simplified Chinese
+- 🔭 I’m currently working on Native Android App, Flutter App, Website Development,  Machine Learning, etc
+- 🌱 I’m currently learning SKD to pass my CPNS test
 - 📓 Undergraduate Computer Science Student at Universitas Negeri Medan
-- 📫 How to reach me: Email me at github@jeremia.my.id
+- 📫 How to reach me: Email me at jeremia49@icloud.com
 <!-- - ⚡ Fun fact: Tryin to join Bangkit Program this year... -->
 
 ## Stats 📈 
@@ -11,8 +11,10 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jeremia49&theme=radical&count_private=true" alt="jeremia49's most used lang">
 </p>
 
+<!--
 ## Music 🎸 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jeremia-manurung&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jeremia-manurung&redirect=true)
+-->
 
 <!--
 **jeremia49/jeremia49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
