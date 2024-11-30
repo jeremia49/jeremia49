@@ -1,6 +1,6 @@
 ### Hi There 👋
 - 🔭 I’m currently working on Native Android App, Flutter App, Website Development,  Machine Learning, etc
-- 🌱 I’m currently learning SKD to pass my CPNS test
+- 🌱 ~
 - 📓 Undergraduate Computer Science Student at Universitas Negeri Medan
 - 📫 How to reach me: Email me at jeremia49@icloud.com
 <!-- - ⚡ Fun fact: Tryin to join Bangkit Program this year... -->
